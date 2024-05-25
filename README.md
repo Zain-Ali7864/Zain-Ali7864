@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Zain Ahmad 👋
 
 ![Header Image](your-image-url)
 
