@@ -1,3 +1,7 @@
+# Hi there, I'm Zain Ahmad 👋
+## About Me
+I'm a passionate software developer specializing in full-stack development. I love creating web applications and exploring new technologies.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100009206340247) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/z.a___pro/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zain-ahmad-50b284295/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@xaino_dev?_t=8rTYYadRjmf&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/marukhsaad20?t=dGl6ho-jW1shZZJhWwqWsA&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCaCboizM4glQT0roRnJ0Aog) 
 
@@ -8,12 +12,6 @@ Commit_Stats-> (https://github-readme-stats.vercel.app/api?username=Zain Ahmad&t
 Github_Contributions-> (https://github-readme-streak-stats.herokuapp.com/?user=Zain Ahmad&theme=dark&hide_border=false)<br/>
 Most Used_Languages-> (https://github-readme-stats.vercel.app/api/top-langs/?username=Zain Ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Hi there, I'm Zain Ahmad 👋
-
-![Header Image](your-image-url)
-
-## About Me
-I'm a passionate software developer specializing in full-stack development. I love creating web applications and exploring new technologies.
 
 ## Skills
 - 🖥️ Languages: JavaScript, Python, Java
