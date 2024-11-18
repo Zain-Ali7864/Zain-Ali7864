@@ -29,13 +29,13 @@ Hi! I'm Zain, a passionate developer with a knack for building elegant and effic
 - 🌈 **Tailwind CSS**: Modern UI Styling  
 
 # 📊 GitHub Stats:
----
+
 ### ⚡ GitHub Stats:
 ![Commit_Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
----
+
 ### 🔥 GitHub Contributions:
 ![Github_Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Zain%20Ahmad&theme=dark&hide_border=false)
----
+
 ### 🌍 Most Used Languages:
 ![Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
