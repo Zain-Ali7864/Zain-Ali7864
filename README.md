@@ -29,20 +29,13 @@ Hi! I'm Zain, a passionate developer with a knack for building elegant and effic
 - 🌈 **Tailwind CSS**: Modern UI Styling  
 
 # 📊 GitHub Stats:
-# 📊 **GitHub Highlights**
-
 ---
-
-### ⚡ Yourusername's GitHub Stats:
+### ⚡ GitHub Stats:
 ![Commit_Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
 ---
-
 ### 🔥 GitHub Contributions:
 ![Github_Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Zain%20Ahmad&theme=dark&hide_border=false)
-
 ---
-
 ### 🌍 Most Used Languages:
 ![Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
@@ -62,14 +55,6 @@ Hi! I'm Zain, a passionate developer with a knack for building elegant and effic
 - Built with **OpenAI** and **Chat GPT-4** for natural, real-time voice-to-voice interaction.  
 
 ---
-
-## 📊 **GitHub Highlights**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=highcontrast)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=highcontrast)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast)
-
----
-
 ## 📚 **Learning Goals**  
 - 📖 Becoming an expert in **Generative AI** and **Prompt Engineering**.  
 - 🛠️ Building my own AI-based SaaS product.  
