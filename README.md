@@ -44,7 +44,7 @@ Hi! I'm Zain, a passionate developer with a knack for building elegant and effic
 ---
 
 ### 🌍 Most Used Languages:
-![Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain%20Ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
 
