@@ -62,14 +62,6 @@ Most Used_Languages-> (https://github-readme-stats.vercel.app/api/top-langs/?use
 
 ---
 
-## 🤝 **Let's Connect!**  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=appveyor)](https://your-portfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
-
----
-
 ## 🎯 **Fun Facts About Me**  
 - 💡 I learn best by analogies and storytelling.  
 - 🌎 My goal: Study abroad and gain global tech exposure.  
