@@ -29,11 +29,21 @@ Hi! I'm Zain, a passionate developer with a knack for building elegant and effic
 - 🌈 **Tailwind CSS**: Modern UI Styling  
 
 # 📊 GitHub Stats:
-![Commit_Stats](https://github-readme-stats.vercel.app/api?username=Zain Ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+### 🔥 Commit Stats  
+[![Commit Stats](https://img.shields.io/badge/Commit_Stats-darkblue?style=for-the-badge&logo=github)](https://github-readme-stats.vercel.app/api?username=Zain%20Ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![Commit_Stats](https://github-readme-stats.vercel.app/api?username=Zain%20Ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Github_Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Zain Ahmad&theme=dark&hide_border=false)
+---
 
-![Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain Ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🛠️ GitHub Contributions  
+[![GitHub Contributions](https://img.shields.io/badge/GitHub_Contributions-orange?style=for-the-badge&logo=github)](https://github-readme-streak-stats.herokuapp.com/?user=Zain%20Ahmad&theme=dark&hide_border=false)  
+![Github_Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Zain%20Ahmad&theme=dark&hide_border=false)
+
+---
+
+### 🌍 Most Used Languages  
+[![Most Used Languages](https://img.shields.io/badge/Most_Used_Languages-green?style=for-the-badge&logo=github)](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain%20Ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain%20Ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🌐 Socials:
