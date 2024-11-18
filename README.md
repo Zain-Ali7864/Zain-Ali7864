@@ -34,7 +34,7 @@ Hi! I'm Zain, a passionate developer with a knack for building elegant and effic
 ---
 
 ### ⚡ Yourusername's GitHub Stats:
-![Commit_Stats](https://github-readme-stats.vercel.app/api?username=Zain%20Ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Commit_Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ---
 
