@@ -18,3 +18,94 @@ Most Used_Languages-> (https://github-readme-stats.vercel.app/api/top-langs/?use
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100009206340247) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/z.a___pro/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zain-ahmad-50b284295/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@xaino_dev?_t=8rTYYadRjmf&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/marukhsaad20?t=dGl6ho-jW1shZZJhWwqWsA&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCaCboizM4glQT0roRnJ0Aog) 
 
+# 🌟 **Hey there, I'm Zain Ahmad!** 🌟  
+🎯 **Software Developer | AI Enthusiast | Typist | Tester**  
+📍 **Pakistan** | 🚀 **Turning Ideas Into Reality**  
+
+---
+
+## 🌐 **About Me**  
+Hi! I'm Zain, a passionate developer with a knack for building elegant and efficient solutions. I love solving real-world problems with tech and constantly learning to stay ahead in this fast-evolving field.  
+
+- 🎓 **2 Years of Experience in Software Quality Assurance (SQA)**.  
+- 🌱 Currently mastering **Next.js 14**, **Generative AI**, and **State Management with Zustand**.  
+- 🤖 Excited to contribute to the world of AI and automation.  
+
+---
+
+## 🚀 **Tech Stack**  
+### **Languages & Frameworks**  
+- 🟡 **JavaScript**: Next.js, React  
+- 🐍 **Python**: AI & Automation Projects  
+- 🛠️ **C++**: Problem-solving and competitive coding  
+
+### **Databases & Tools**  
+- 🍃 **MongoDB**  
+- 🌐 **Postman**  
+- 🔗 **GitHub & Git**  
+
+### **Design Tools**  
+- 🎨 **Figma**: Wireframes & Prototypes  
+- 🌈 **Tailwind CSS**: Modern UI Styling  
+
+### **Testing Skills**  
+- ✅ **Manual Testing**: End-to-End Testing, Test Case Writing  
+- 🛡️ **Bug Reporting**: Using JIRA and ClickUp  
+
+---
+
+## 🔥 **Projects I'm Proud Of**  
+### 🌟 **E-Commerce Dashboard**  
+- Role-based dashboards for Admin, Super Admin, and Vendors.  
+- Features include product approvals, real-time updates, and secure login.
+
+### 💬 **Real-Time Chatbot**  
+- Built with **Whisper** and **LLaMA** for natural, real-time voice-to-voice interaction.  
+
+### 🛠️ **Custom Hooks Library**  
+- Modularized React hooks for common functionalities like fetching, pagination, and state management.
+
+---
+
+## 📊 **GitHub Highlights**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=highcontrast)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=highcontrast)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast)
+
+---
+
+## 🌟 **Open-Source Contributions**  
+- 🔧 Improved UX/UI for open-source projects.  
+- 📝 Wrote extensive documentation to help new developers onboard faster.  
+- 🐛 Contributed to bug fixes in large repositories.  
+
+---
+
+## 📚 **Learning Goals**  
+- 📖 Becoming an expert in **Generative AI** and **Prompt Engineering**.  
+- 🛠️ Building my own AI-based SaaS product.  
+- 🌍 Making meaningful contributions to the open-source community.  
+
+---
+
+## 🤝 **Let's Connect!**  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=appveyor)](https://your-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
+
+---
+
+## 🎯 **Fun Facts About Me**  
+- 💡 I learn best by analogies and storytelling.  
+- 🌎 My goal: Study abroad and gain global tech exposure.  
+- 📜 I document everything—clean code, clear processes, and cool ideas!  
+
+---
+
+## 🌟 **Quote That Inspires Me**  
+*"First, solve the problem. Then, write the code."* – John Johnson  
+
+---
+
+**✨ Let’s build something incredible together! Connect with me for collaborations, projects, or just to chat tech!**  
